@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Project 3 FM.ogg-22532365382f35d2ae23c6c269dbb331.oggstr"
+
+[deps]
+
+source_file="res://Assets/Project 3 FM.ogg"
+dest_files=[ "res://.import/Project 3 FM.ogg-22532365382f35d2ae23c6c269dbb331.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

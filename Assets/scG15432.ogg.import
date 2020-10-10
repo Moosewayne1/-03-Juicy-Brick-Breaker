@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/scG15432.ogg-984c19985229dd8e74bd06a6c44104bf.oggstr"
+
+[deps]
+
+source_file="res://Assets/scG15432.ogg"
+dest_files=[ "res://.import/scG15432.ogg-984c19985229dd8e74bd06a6c44104bf.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
